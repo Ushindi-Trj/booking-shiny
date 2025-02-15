@@ -1,0 +1,3 @@
+const stripePublishableKey = 'pk_test_51N0jCnBHkxSDnoYsCIZekEzskOWukFX8KuHGDifbOTKhFZnodF2kAuoLZ22A2URdqsiZXqEvCQ6z9ZcyFkVvqk6P00DoAUxlb1';
+const stripeSecretKey = 'sk_test_51N0jCnBHkxSDnoYsfT1ZBX3diUzgeSRMPPsqLoC8x0Ip9PXehSOwJM60g5uIp55Bh8blQeY3Ph8joQqeMkPRDpX900b5QeH0fs';
+const mapboxToken = 'pk.eyJ1IjoidXNoaW5kaS1kaXYiLCJhIjoiY2xnN3c0MmY2MG52eTNtcXlsZjY0dGx0eCJ9.pheNOBZymcpxqWmlm-j6Nw';
